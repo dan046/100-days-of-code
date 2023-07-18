@@ -22,6 +22,14 @@ Law of Serendipity: Lady Luck Favors The One Who Tries. Just pick one tiny thing
 
 **Link to work:** n/a
 
+### Day 1: July 18, 2023
+
+**Today's Progress**: Learning How To Learn by Barbara Oakley.
+
+**Thoughts:** I learned about how to deal with procrastination, using procrastination as a tool instead of an addiction. Learning different learning techniques such as Memory Palace, overlearning, pacing your knowledge, learning something on a balanced duration and not learning in one go. One should also try having a journal and write what they learned. The memory accepts and registers what you learned better than typing it on a keyboard.
+
+**Link to work:** n/a
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
