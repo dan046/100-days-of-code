@@ -30,6 +30,15 @@ Law of Serendipity: Lady Luck Favors The One Who Tries. Just pick one tiny thing
 
 **Link to work:** n/a
 
+### Day 2: July 19, 2023
+
+**Today's Progress**: Officially started, refreshing JavaScript
+
+**Thoughts** Currently learned about the basics of JavaScript again to brush up. Remembered to identify code and running the code. Also learning about JavaScript numbers and math.
+
+Learned about the money problem (float) in JavaScript. It is advised to convert the dollars to cents to avoid inaccuracies when calculating float values. The order of operations and using Math.round().
+
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
