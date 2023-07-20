@@ -38,6 +38,12 @@ Law of Serendipity: Lady Luck Favors The One Who Tries. Just pick one tiny thing
 
 Learned about the money problem (float) in JavaScript. It is advised to convert the dollars to cents to avoid inaccuracies when calculating float values. The order of operations and using Math.round().
 
+### Day 2: July 20, 2023
+
+**Today's Progress**: Learned more bout float problems, strings and other use cases.
+
+**Thoughts** I really hated math, but it's an important aspect. I had a hard time computing the taxes and using Math.round function. Took me a while, need more practice. I also learned some new terms of using strings in JavaScript.
+
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
