@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 0: July 17, 2023
+
 <!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**: Refresher JavaScript, also included Learning How To Learn by Barbara Oakley.
@@ -10,15 +11,15 @@ I needed to really set things straight, I have some problems with procrastinatio
 
 I have included the techniques of Learning How To Learn by Barbara Oakley using Pomodoro to help me with procrastination. That is, focusing for 25 minutes straight with no distractions and then taking a break to enter diffuse mode. This goes for an hour prior the 100 days of code commitment.
 
-***Learning How To Learn***
+**_Learning How To Learn_**
 Chunks are build by focused mode, understanding the basic idea and practice. Recall by trying to remember the key ideas.
 Balanced your studies by focusing on the more difficult parts.
 Test yourself frequently to know whether you're fooling yourself or you're actually learning. Recall is an example of mini-tests. Mistakes are good. Use deliberate practice the hardest subjects you find.
 
 Law of Serendipity: Lady Luck Favors The One Who Tries. Just pick one tiny thing to learn and then do the same for the others, it's surprising how you'll find out that you're learning quickly.
 
-***JavaScript Refresher Course by Dan Wellman***
-***Lesson 1: Introduction Concept***
+**_JavaScript Refresher Course by Dan Wellman_**
+**_Lesson 1: Introduction Concept_**
 
 **Link to work:** n/a
 
@@ -44,6 +45,11 @@ Learned about the money problem (float) in JavaScript. It is advised to convert 
 
 **Thoughts** I really hated math, but it's an important aspect. I had a hard time computing the taxes and using Math.round function. Took me a while, need more practice. I also learned some new terms of using strings in JavaScript.
 
+### Day 3: July 24, 2023
+
+**Today's Progress**: HTML, CSS, console.log and other JS features Review
+
+**Thoughts** Reviewed the basics of HTML, and CSS. Set up VSCode. Loading JS inside an HTML file. Comments. console.log() along with practical exercises.
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
