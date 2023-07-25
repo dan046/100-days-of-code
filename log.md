@@ -42,7 +42,7 @@ Learned about the money problem (float) in JavaScript. It is advised to convert 
 **_Lesson 2: Numbers and Math_**
 **_Lesson 3: Strings_**
 
-### Day 2: July 20, 2023
+### Day 3: July 20, 2023
 
 **Today's Progress**: Learned more bout float problems, strings and other use cases.
 
@@ -50,7 +50,7 @@ Learned about the money problem (float) in JavaScript. It is advised to convert 
 
 **_Lesson 4: HTML, CSS, console.log and other JS Features Review_**
 
-### Day 3: July 24, 2023
+### Day 4: July 24, 2023
 
 **Today's Progress**: HTML, CSS, console.log and other JS features Review
 
@@ -58,11 +58,16 @@ Learned about the money problem (float) in JavaScript. It is advised to convert 
 
 **_Lesson 5: JavaScript Variables and Other JS Features Review_**
 
-### Day 3: July 25, 2023
+### Day 5: July 25, 2023
 
 **Today's Progress**: JavaScript Variables and Other Features Review + Practical Exercises and Making a Simple Calculator
 
-**Thoughts** Reviewed the basics of JavaScript Variables. 3 types of variables, const, let, and var. Learned how to re-assign the variable, replicated AMAZON's cart quality feature by making a simplified version out of it. Shortcuts for re-assigning a variable. Naming conventions and best practices. Along with practical and challenge exercises. Created a simple calculator to test the learned and reviewed skills.
+**Today's Progress**: Bonus Progress - Booleans and If-statements
+
+**Thoughts**
+Reviewed the basics of JavaScript Variables. 3 types of variables, const, let, and var. Learned how to re-assign the variable, replicated AMAZON's cart quality feature by making a simplified version out of it. Shortcuts for re-assigning a variable. Naming conventions and best practices. Along with practical and challenge exercises. Created a simple calculator to test the learned and reviewed skills.
+
+Decided to include some part of the Booleans and if-statements in today's 100 days of code challenge. Practical exercises not included. This is still part 1.
 
 **Link to work:** https://github.com/dan046/simple-calculator-100days-of-code // Note: Doesn't have an interface. Still reviewing variables and prior the lesson, everything is still inline. Will soon update.
 
