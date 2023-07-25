@@ -39,17 +39,32 @@ Law of Serendipity: Lady Luck Favors The One Who Tries. Just pick one tiny thing
 
 Learned about the money problem (float) in JavaScript. It is advised to convert the dollars to cents to avoid inaccuracies when calculating float values. The order of operations and using Math.round().
 
+**_Lesson 2: Numbers and Math_**
+**_Lesson 3: Strings_**
+
 ### Day 2: July 20, 2023
 
 **Today's Progress**: Learned more bout float problems, strings and other use cases.
 
 **Thoughts** I really hated math, but it's an important aspect. I had a hard time computing the taxes and using Math.round function. Took me a while, need more practice. I also learned some new terms of using strings in JavaScript.
 
+**_Lesson 4: HTML, CSS, console.log and other JS Features Review_**
+
 ### Day 3: July 24, 2023
 
 **Today's Progress**: HTML, CSS, console.log and other JS features Review
 
 **Thoughts** Reviewed the basics of HTML, and CSS. Set up VSCode. Loading JS inside an HTML file. Comments. console.log() along with practical exercises.
+
+**_Lesson 5: JavaScript Variables and Other JS Features Review_**
+
+### Day 3: July 25, 2023
+
+**Today's Progress**: JavaScript Variables and Other Features Review + Practical Exercises and Making a Simple Calculator
+
+**Thoughts** Reviewed the basics of JavaScript Variables. 3 types of variables, const, let, and var. Learned how to re-assign the variable, replicated AMAZON's cart quality feature by making a simplified version out of it. Shortcuts for re-assigning a variable. Naming conventions and best practices. Along with practical and challenge exercises. Created a simple calculator to test the learned and reviewed skills.
+
+**Link to work:** n/a
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
