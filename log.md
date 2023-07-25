@@ -64,7 +64,7 @@ Learned about the money problem (float) in JavaScript. It is advised to convert 
 
 **Thoughts** Reviewed the basics of JavaScript Variables. 3 types of variables, const, let, and var. Learned how to re-assign the variable, replicated AMAZON's cart quality feature by making a simplified version out of it. Shortcuts for re-assigning a variable. Naming conventions and best practices. Along with practical and challenge exercises. Created a simple calculator to test the learned and reviewed skills.
 
-**Link to work:** n/a
+**Link to work:** https://github.com/dan046/simple-calculator-100days-of-code // Note: Doesn't have an interface. Still reviewing variables and prior the lesson, everything is still inline. Will soon update.
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
