@@ -90,3 +90,13 @@ Decided to include some part of the Booleans and if-statements in today's 100 da
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+
+### Day 6: July 27, 2023
+**Today's Progress**: Booleans and If-statements, More Logical Operators Part 2: Rock-Paper-Scissors Simple Logic Game.
+
+**Thoughts**
+Continuation of the JavaScript Refresher, booleans and if-statements. Created a simple logic utilizing the rock paper scissors game algorithm to practice the logic of using conditional statements. Used Math.random() to generate random values used for results in a rock paper scissors game algorithms. Truthy and Falsy Values, shortcuts for if-statements, NaN (Not a Number), undefined values. Ternary, Guard and Default Operators. Also did some practical exercises to further refresh the knowledge.
+
+Notes: Some of the code used in the refresher did ignore the concept of re-declaring block-scoped variables. This is not highly recommended and not the best practice.
+
+**Link to work:** https://github.com/dan046/simple-calculator-100days-of-code // Note: Doesn't have an interface. Still reviewing conditional statements and logical operators and prior the lesson, everything is still inline. Will soon update. Will also update the code to a more dynamic value instead of using conditional statements, i.e. using loops soon. Still uses the same repo.
