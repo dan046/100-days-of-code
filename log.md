@@ -100,3 +100,11 @@ Continuation of the JavaScript Refresher, booleans and if-statements. Created a 
 Notes: Some of the code used in the refresher did ignore the concept of re-declaring block-scoped variables. This is not highly recommended and not the best practice.
 
 **Link to work:** https://github.com/dan046/simple-calculator-100days-of-code // Note: Doesn't have an interface. Still reviewing conditional statements and logical operators and prior the lesson, everything is still inline. Will soon update. Will also update the code to a more dynamic value instead of using conditional statements, i.e. using loops soon. Still uses the same repo.
+
+### Day 7: July 28, 2023
+**Today's Progress**: JavaScript Refresher Review - Functions
+
+**Thoughts**
+Finally started to learn about functions and some takes one need to be actually familiar with it.
+
+**Link to work:** n/a considering to refactor the previous codes made into functions with conditional statements.
