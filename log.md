@@ -108,3 +108,12 @@ Notes: Some of the code used in the refresher did ignore the concept of re-decla
 Finally started to learn about functions and some takes one need to be actually familiar with it.
 
 **Link to work:** n/a considering to refactor the previous codes made into functions with conditional statements.
+
+### Day 8: July 29, 2023
+
+**Today's Progress**: JavaScript Refresher Review - Delve Deeper into Loops, Operators, Some quizzes and exercises.
+
+**Thoughts**
+More information about loops and how they are used, also learned more about different operators, especially the bitwise operator. They kind of not needed but good to know as said. also did some quizzes. currently also learning about the conditional statements again which is under the control flow of operations and how they are used in programming.
+
+**Link to work:** n/a
