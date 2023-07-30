@@ -92,6 +92,7 @@ Decided to include some part of the Booleans and if-statements in today's 100 da
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
 
 ### Day 6: July 27, 2023
+
 **Today's Progress**: Booleans and If-statements, More Logical Operators Part 2: Rock-Paper-Scissors Simple Logic Game.
 
 **Thoughts**
@@ -102,6 +103,7 @@ Notes: Some of the code used in the refresher did ignore the concept of re-decla
 **Link to work:** https://github.com/dan046/simple-calculator-100days-of-code // Note: Doesn't have an interface. Still reviewing conditional statements and logical operators and prior the lesson, everything is still inline. Will soon update. Will also update the code to a more dynamic value instead of using conditional statements, i.e. using loops soon. Still uses the same repo.
 
 ### Day 7: July 28, 2023
+
 **Today's Progress**: JavaScript Refresher Review - Functions
 
 **Thoughts**
@@ -117,3 +119,17 @@ Finally started to learn about functions and some takes one need to be actually 
 More information about loops and how they are used, also learned more about different operators, especially the bitwise operator. They kind of not needed but good to know as said. also did some quizzes. currently also learning about the conditional statements again which is under the control flow of operations and how they are used in programming.
 
 **Link to work:** n/a
+
+### Day 9: July 30, 2023
+
+**Today's Progress**: JavaScript Refresher Exercises, Logic and Algorithms, Implementing Functions
+
+**Thoughts**
+Solved Basic JavaScript Refresher Exercises that would train my mind and methods on how to properly create functions that are clean and could deliver code the best way possible. Exercises like the fizzBuzz Algorithm, checking an image orientation, speed limit algorithm, finding the maximum number between two numbers algorithm, swapping values
+
+**Link to work:**
+GitHub Gist:
+Basic Speed Limit Algorithm: https://gist.github.com/dan046/036eb60d1d7e3363ebe9a18e031d5b0e
+isLandscape: https://gist.github.com/dan046/e3122c7a01f0e978edcdb77f5f682c39
+fizzBuzz Algorith: https://gist.github.com/dan046/4ff8d7c82aa40a46cc104879b3702ad1
+Control Flow: https://gist.github.com/dan046/5c1968c66cdef9f06473e37c6792c3fd
