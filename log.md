@@ -133,3 +133,13 @@ Basic Speed Limit Algorithm: https://gist.github.com/dan046/036eb60d1d7e3363ebe9
 isLandscape: https://gist.github.com/dan046/e3122c7a01f0e978edcdb77f5f682c39
 fizzBuzz Algorith: https://gist.github.com/dan046/4ff8d7c82aa40a46cc104879b3702ad1
 Control Flow: https://gist.github.com/dan046/5c1968c66cdef9f06473e37c6792c3fd
+
+### Day 10: August 01, 2023
+
+**Today's Progress**: JavaScript Refresher Exercises
+
+**Thoughts**
+Solved more basic JavaScript Refresher Exercises that would train my programming mind. How to properly create clean and readable functions.
+
+**Link to work:**
+GitHub Gist: https://gist.github.com/dan046/1da9c9a37a9c4e669f1fb5b761da986f
