@@ -143,3 +143,11 @@ Solved more basic JavaScript Refresher Exercises that would train my programming
 
 **Link to work:**
 GitHub Gist: https://gist.github.com/dan046/1da9c9a37a9c4e669f1fb5b761da986f
+
+### Day 11: August 02, 2023
+
+**Today's Progress**: JavaScript Refresher Exercises. Primes, show Stars, Grade, Learned about nested loops.
+**Thoughts**
+Solved basic to junior level JavaScript Refresher Exercises. Had some issues on providing and finding the logic and algorithm especially the primes. I'm not a fan of math but I know this is important to train my thinking ability on how to get to point A to point B. More so, this does include the probably reasoning on which best path to take in order to create cleaner and readable code.
+**Link to work:**
+GitHub Gist: https://gist.github.com/dan046/16ea871c343038b62c2f33af04021766
