@@ -151,3 +151,11 @@ GitHub Gist: https://gist.github.com/dan046/1da9c9a37a9c4e669f1fb5b761da986f
 Solved basic to junior level JavaScript Refresher Exercises. Had some issues on providing and finding the logic and algorithm especially the primes. I'm not a fan of math but I know this is important to train my thinking ability on how to get to point A to point B. More so, this does include the probably reasoning on which best path to take in order to create cleaner and readable code.
 **Link to work:**
 GitHub Gist: https://gist.github.com/dan046/16ea871c343038b62c2f33af04021766
+
+### Day 12: August 03, 2023
+
+**Today's Progress**: Dived deeper into functions, and for... loops. Exercises. JavaScript Objects (Objects, Factory Function Objects, Constructor Objects)
+
+**Thoughts**
+Redone some previous exercises, write some notes to help better familiarize the process of how to get to point A to point B and a deeper explanation out of it. Re-did some examples without following the tutorial to test whether I actually know the process. Also started learning about Objects and more functions. Currently learning about different ways to create objects.
+**Link to work:** n/a
