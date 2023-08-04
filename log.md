@@ -159,3 +159,29 @@ GitHub Gist: https://gist.github.com/dan046/16ea871c343038b62c2f33af04021766
 **Thoughts**
 Redone some previous exercises, write some notes to help better familiarize the process of how to get to point A to point B and a deeper explanation out of it. Re-did some examples without following the tutorial to test whether I actually know the process. Also started learning about Objects and more functions. Currently learning about different ways to create objects.
 **Link to work:** n/a
+
+### Day 13: August 04, 2023
+
+**Today's Progress**: JavaScript Refresher Fundamentals: Dynamic Nature of Objects, Constructor Property, Functions are Objects, Value vs. Reference Types
+
+**Thoughts**
+Learned about the dynamic nature of objects, constructor properties, functions which are actually objects, difference between value and reference types. Values are independent and are copied by their value. References on the other hand are copied by their reference.
+
+i.e.
+Value Types
+let number = 10
+function increase(number){
+number++
+}
+increase(number) // Output: 11 But that is stored somewhere in the memory.
+console.log(number) // Output: 10
+
+Reference Types:
+let obj = {value: 10}
+function increase(obj){
+obj.value++
+}
+increase(obj) // Output: 11
+console.log(obj) // Output: 11, this is because the values are copied by their reference. Any changes we made on the object is immediately reflected and visible to the other value.
+
+**Link to work:** n/a
