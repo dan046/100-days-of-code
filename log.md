@@ -185,3 +185,20 @@ increase(obj) // Output: 11
 console.log(obj) // Output: 11, this is because the values are copied by their reference. Any changes we made on the object is immediately reflected and visible to the other value.
 
 **Link to work:** n/a
+
+### Day 14: August 06, 2023
+
+**Today's Progress**: JavaScript Refresher Fundamentals: Enumerating Properties of an Object, cloning an object, garbage collection, built-in object properties like Math and String.
+
+**Thoughts**
+Learned a lot of things, such as enumerating properties of an object using the for...in and for...of loops. The for...in method is the easiest way to get the properties of an object. The for...of loop on the other hand, requires iterating an array and maps. To solve this issue, you can use Object.keys which will return an array of the object.
+
+The word Object is a built-in constructor function. Apart from .keys, we can also use Object.entries. Instead of returning a string array, it returns each value pair as an array.
+
+Checking the property of a given object, use the in method. if ('radius' in circle).
+
+Cloning objects, the easiest way and modern way of doing that is using the spread operator {...variable}. There are other methods like Object.assign or directly creating an empty object variable and using a for...in loop to iterate over the existing object and clone the value to the new empty object variable.
+
+JS doesn't have the concept of garbage collection, however it is important to know that when we create a variable or constants, the memory is automatically allocated in that section. If we're done and not using it, the memory that was allocated is automatically deallocated. This happens behind the scenes and we have no control over it.
+
+**Link to work:** n/a
