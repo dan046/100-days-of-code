@@ -202,3 +202,13 @@ Cloning objects, the easiest way and modern way of doing that is using the sprea
 JS doesn't have the concept of garbage collection, however it is important to know that when we create a variable or constants, the memory is automatically allocated in that section. If we're done and not using it, the memory that was allocated is automatically deallocated. This happens behind the scenes and we have no control over it.
 
 **Link to work:** n/a
+
+### Day 15: August 07, 2023
+
+**Today's Progress**: JavaScript Refresher Fundamentals: Object Exercises - Familiarizing the concepts in creating objects, asking the necessary questions like, "What properties I put in these objects?", Drilling more Constructor and Factory Function Exercises.
+
+**Thoughts**
+I honestly thought creating objects is easy since I already am doing ReactJS, but then I realized things are more complex than they are, I've seen these pop up here and then and quite honestly, I've never been confused about constructor and factory functions. Constructor functions are confusing. Aren't you suppose to use class based
+approach?
+
+**Link to work:** n/a
