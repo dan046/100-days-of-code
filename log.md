@@ -212,3 +212,12 @@ I honestly thought creating objects is easy since I already am doing ReactJS, bu
 approach?
 
 **Link to work:** n/a
+
+### Day 16: August 08, 2023
+
+**Today's Progress**: JavaScript Refresher Fundamentals: Arrays - Re-learning how to add elements in an array, ES6 feature - Arrow Functions, Combining and Slicing Arrays, The Best Practice to Empty Arrays, Finding Elements in an Array (Primitive and Reference Types), Iterating Arrays, Joining Arrays, Removing Elements From the Arrays and Spread Operators
+
+**Thoughts**
+So far, the lessons are pretty straight forward compared to the objects. I honestly feel objects are highly confusing than arrays. Arrays had methods that are directly involved and does not require much modification compared to objects.
+
+**Link to work:** n/a
