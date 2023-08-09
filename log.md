@@ -221,3 +221,12 @@ approach?
 So far, the lessons are pretty straight forward compared to the objects. I honestly feel objects are highly confusing than arrays. Arrays had methods that are directly involved and does not require much modification compared to objects.
 
 **Link to work:** n/a
+
+### Day 17: August 09, 2023
+
+**Today's Progress**: JavaScript Refresher Fundamentals: Arrays - Exercises - Practicing Array Algorithms And How they Actually Work inside functions. Creating Functions that simulate different array methods. Chaining of methods.
+
+**Thoughts**
+The exercises turned out to be quite harder than expected. The logic around each exercises is harder. I'm really just glad that these array methods have been invented and because of this, life just got a lot easier compared to creating the functions and implementing the algorithm yourself every single time.
+
+**Link to work:** n/a
