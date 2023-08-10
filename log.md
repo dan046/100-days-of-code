@@ -230,3 +230,12 @@ So far, the lessons are pretty straight forward compared to the objects. I hones
 The exercises turned out to be quite harder than expected. The logic around each exercises is harder. I'm really just glad that these array methods have been invented and because of this, life just got a lot easier compared to creating the functions and implementing the algorithm yourself every single time.
 
 **Link to work:** n/a
+
+### Day 18: August 10, 2023
+
+**Today's Progress**: JavaScript Refresher Fundamentals: Arrays - Exercises - Practicing Array Algorithms And How they Actually Work inside functions. Creating Functions that simulate different array methods. Chaining of methods.
+
+**Thoughts**
+Solved and resolved more exercises for this lesson. I decided to write out the steps to better visualize the flow and algorithm process on how each function would work and why they should be written that way. It's actually easier to digest and you could see the steps one by one if you go through these processes. It's like building a muscle memory out of the programming paradigm.
+
+**Link to work:** n/a
