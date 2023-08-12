@@ -162,7 +162,11 @@ Redone some previous exercises, write some notes to help better familiarize the 
 
 ### Day 13: August 04, 2023
 
-**Today's Progress**: JavaScript Refresher Fundamentals: Dynamic Nature of Objects, Constructor Property, Functions are Objects, Value vs. Reference Types
+**Today's Progress**: JavaScript Refresher Fundamentals:
+1. Dynamic Nature of Objects
+2. Constructor Property
+3. Functions are Objects
+4. Value vs. Reference Types
 
 **Thoughts**
 Learned about the dynamic nature of objects, constructor properties, functions which are actually objects, difference between value and reference types. Values are independent and are copied by their value. References on the other hand are copied by their reference.
@@ -188,7 +192,11 @@ console.log(obj) // Output: 11, this is because the values are copied by their r
 
 ### Day 14: August 06, 2023
 
-**Today's Progress**: JavaScript Refresher Fundamentals: Enumerating Properties of an Object, cloning an object, garbage collection, built-in object properties like Math and String.
+**Today's Progress**: JavaScript Refresher Fundamentals:
+1. Enumerating Properties of an Object
+2. Cloning an object
+3. Garbage collection
+4. built-in object properties Math and String.
 
 **Thoughts**
 Learned a lot of things, such as enumerating properties of an object using the for...in and for...of loops. The for...in method is the easiest way to get the properties of an object. The for...of loop on the other hand, requires iterating an array and maps. To solve this issue, you can use Object.keys which will return an array of the object.
@@ -205,7 +213,10 @@ JS doesn't have the concept of garbage collection, however it is important to kn
 
 ### Day 15: August 07, 2023
 
-**Today's Progress**: JavaScript Refresher Fundamentals: Object Exercises - Familiarizing the concepts in creating objects, asking the necessary questions like, "What properties I put in these objects?", Drilling more Constructor and Factory Function Exercises.
+**Today's Progress**: JavaScript Refresher Fundamentals: Object Exercises
+1. Familiarizing the concepts in creating objects
+2. asking the necessary questions like, "What properties I put in these objects?"
+3. Drilling more Constructor and Factory Function Exercises.
 
 **Thoughts**
 I honestly thought creating objects is easy since I already am doing ReactJS, but then I realized things are more complex than they are, I've seen these pop up here and then and quite honestly, I've never been confused about constructor and factory functions. Constructor functions are confusing. Aren't you suppose to use class based
@@ -215,7 +226,17 @@ approach?
 
 ### Day 16: August 08, 2023
 
-**Today's Progress**: JavaScript Refresher Fundamentals: Arrays - Re-learning how to add elements in an array, ES6 feature - Arrow Functions, Combining and Slicing Arrays, The Best Practice to Empty Arrays, Finding Elements in an Array (Primitive and Reference Types), Iterating Arrays, Joining Arrays, Removing Elements From the Arrays and Spread Operators
+**Today's Progress**: JavaScript Refresher Fundamentals: Arrays
+
+1. Re-learning how to add elements in an array
+2. ES6 feature - Arrow Functions
+3. Combining and Slicing Arrays
+4. The Best Practice to Empty Arrays
+5. Finding Elements in an Array (Primitive and Reference Types)
+6. Iterating Arrays
+7. Joining Arrays
+8. Removing Elements From the Arrays
+9. Spread Operators
 
 **Thoughts**
 So far, the lessons are pretty straight forward compared to the objects. I honestly feel objects are highly confusing than arrays. Arrays had methods that are directly involved and does not require much modification compared to objects.
@@ -237,5 +258,31 @@ The exercises turned out to be quite harder than expected. The logic around each
 
 **Thoughts**
 Solved and resolved more exercises for this lesson. I decided to write out the steps to better visualize the flow and algorithm process on how each function would work and why they should be written that way. It's actually easier to digest and you could see the steps one by one if you go through these processes. It's like building a muscle memory out of the programming paradigm.
+
+**Link to work:** n/a
+
+### Day 19: August 12, 2023
+
+**Today's Progress**:
+JavaScript Refresher Fundamentals: Arrays - Exercises - More Exercises to Train the Programming Brain.
+
+1. Counting Duplicates
+2. Displaying the highest number in an array
+3. Manipulating array of objects
+
+Lesson - Functions in a deeper detail.
+
+1. Function Declaration vs. Function Expression
+2. Hoisting
+3. Arguments
+4. The ...Rest Operator
+5. Default Parameters
+6. Getters and Setters
+7. Error Handling Try and Catch Method
+
+**Thoughts**
+Solved and resolved more exercises for arrays and array of objects. Writing the steps seem to really work and does give a deeper understanding. Finally learned about functions. I realized I am using some of these methods already, I'm simply not familiar on it on a deeper and its terminologies. However, one thing that caught me off guard, are the lessons about the ...rest operator and getters and setters. It's my first time learning that the term was actually called rest when using it within the functions as parameter.
+
+Getters and Setters also caught me off guard, I've never really seen these methods actually get used in real life situations prior my past learning methods. I am not sure how modern this thing is.
 
 **Link to work:** n/a
