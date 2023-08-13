@@ -163,6 +163,7 @@ Redone some previous exercises, write some notes to help better familiarize the 
 ### Day 13: August 04, 2023
 
 **Today's Progress**: JavaScript Refresher Fundamentals:
+
 1. Dynamic Nature of Objects
 2. Constructor Property
 3. Functions are Objects
@@ -193,6 +194,7 @@ console.log(obj) // Output: 11, this is because the values are copied by their r
 ### Day 14: August 06, 2023
 
 **Today's Progress**: JavaScript Refresher Fundamentals:
+
 1. Enumerating Properties of an Object
 2. Cloning an object
 3. Garbage collection
@@ -214,6 +216,7 @@ JS doesn't have the concept of garbage collection, however it is important to kn
 ### Day 15: August 07, 2023
 
 **Today's Progress**: JavaScript Refresher Fundamentals: Object Exercises
+
 1. Familiarizing the concepts in creating objects
 2. asking the necessary questions like, "What properties I put in these objects?"
 3. Drilling more Constructor and Factory Function Exercises.
@@ -284,5 +287,25 @@ Lesson - Functions in a deeper detail.
 Solved and resolved more exercises for arrays and array of objects. Writing the steps seem to really work and does give a deeper understanding. Finally learned about functions. I realized I am using some of these methods already, I'm simply not familiar on it on a deeper and its terminologies. However, one thing that caught me off guard, are the lessons about the ...rest operator and getters and setters. It's my first time learning that the term was actually called rest when using it within the functions as parameter.
 
 Getters and Setters also caught me off guard, I've never really seen these methods actually get used in real life situations prior my past learning methods. I am not sure how modern this thing is.
+
+**Link to work:** n/a
+
+### Day 20: August 13, 2023
+
+**Today's Progress**:
+JavaScript Refresher Fundamentals:
+
+1. Local and Global Scopes
+2. let vs. var keywords
+3. this keyword
+
+**Thoughts**
+Global scope is like something everyone in your entire neighborhood can see and use. Local scope is like something only the people inside a specific house can see and use.
+
+let gives you flexible boxes where you can change what's inside anytime. var gives you boxes that are a bit more rigid, once you put something in, it's not so easy to change.
+
+The "this" keyword kind of ends up confusing at some point especially when dealing with regular and arrow functions. The this keyword, when you use a regular function inside the loop, it's like the placeholder got lost and doesn't really know what it should refer to. So, it just defaults to something like nothing (undefined). For arrow functions, you're using a smarter placeholder (an arrow function). This arrow function knows where it's being used and automatically connects to the correct object. It's like the placeholder magically figures out that it should stand for the object, and everything works as expected.
+
+The key difference is that arrow functions keep the same meaning of this as their surroundings (they're context-aware), while regular functions can have their own separate understanding of this (they're less context-aware).
 
 **Link to work:** n/a
