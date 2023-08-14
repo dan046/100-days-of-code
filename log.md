@@ -309,3 +309,15 @@ The "this" keyword kind of ends up confusing at some point especially when deali
 The key difference is that arrow functions keep the same meaning of this as their surroundings (they're context-aware), while regular functions can have their own separate understanding of this (they're less context-aware).
 
 **Link to work:** n/a
+
+### Day 21: August 14, 2023
+
+**Today's Progress**:
+JavaScript Refresher Fundamentals:
+
+1. JavaScript Function Exercises and Refactoring Code from Super Simple Dev
+
+**Thoughts**
+Refactored several old codes and implemented functions.
+
+**Link to work:** https://github.com/dan046/simple-calculator-100days-of-code/
