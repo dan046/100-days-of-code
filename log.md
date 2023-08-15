@@ -323,6 +323,7 @@ Refactored several old codes and implemented functions.
 **Link to work:** https://github.com/dan046/simple-calculator-100days-of-code/
 
 ### Day 22: August 15, 2023
+
 **Today's Progress**:
 JavaScript Refresher Fundamentals
 
