@@ -321,3 +321,14 @@ JavaScript Refresher Fundamentals:
 Refactored several old codes and implemented functions.
 
 **Link to work:** https://github.com/dan046/simple-calculator-100days-of-code/
+
+### Day 22: August 15, 2023
+**Today's Progress**:
+JavaScript Refresher Fundamentals
+
+1. Learned more and more about objects, auto-boxing, shorthand methods and properties, reference types. Refactoring old code adding features.
+
+**Thoughts**
+Refresher review, learned terms of the stuff I'm implementing. I know how to implement these methods but I never really know what they were called until now.
+
+**Link to work:** WIP. N/A
