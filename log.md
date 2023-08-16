@@ -334,7 +334,7 @@ Refresher review, learned terms of the stuff I'm implementing. I know how to imp
 
 **Link to work:** WIP. N/A
 
-### Day 22: August 16, 2023
+### Day 23: August 16, 2023
 JavaScript Refresher Fundamentals
 
 1. JavaScript Objects Exercises, Refactoring Old Code
