@@ -333,3 +333,13 @@ JavaScript Refresher Fundamentals
 Refresher review, learned terms of the stuff I'm implementing. I know how to implement these methods but I never really know what they were called until now.
 
 **Link to work:** WIP. N/A
+
+### Day 22: August 16, 2023
+JavaScript Refresher Fundamentals
+
+1. JavaScript Objects Exercises, Refactoring Old Code
+
+**Thoughts**
+Refactoring old code makes me realize and helps me familiarize the recurring patterns in programming.
+
+**Link to work:** https://github.com/dan046/simple-calculator-100days-of-code/tree/main/exercises
