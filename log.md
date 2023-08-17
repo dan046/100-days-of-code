@@ -335,6 +335,7 @@ Refresher review, learned terms of the stuff I'm implementing. I know how to imp
 **Link to work:** WIP. N/A
 
 ### Day 23: August 16, 2023
+
 JavaScript Refresher Fundamentals
 
 1. JavaScript Objects Exercises, Refactoring Old Code
@@ -343,3 +344,14 @@ JavaScript Refresher Fundamentals
 Refactoring old code makes me realize and helps me familiarize the recurring patterns in programming.
 
 **Link to work:** https://github.com/dan046/simple-calculator-100days-of-code/tree/main/exercises
+
+### Day 24: August 17, 2023
+
+JavaScript Refresher Fundamentals
+
+1. DOM (Document Object Model) Manipulation, Refactoring Old Code and implementing the Document-Object Model
+
+**Thoughts**
+JavaScript Review: Document Object Model (DOM), refactored old code and integrated DOM manipulation to make the code cleaner and more scalable. No CSS, just the logic and operation. CSS to be added, soon.
+
+**Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
