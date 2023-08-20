@@ -355,3 +355,27 @@ JavaScript Refresher Fundamentals
 JavaScript Review: Document Object Model (DOM), refactored old code and integrated DOM manipulation to make the code cleaner and more scalable. No CSS, just the logic and operation. CSS to be added, soon.
 
 **Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
+
+### Day 25: August 19, 2023
+
+JavaScript Refresher Fundamentals
+
+1. DOM (Document Object Model) Manipulation
+2. Exercises and Refactoring Old Code
+
+**Thoughts**
+Diving Deeper into DOMS, learned additional event keys such as keyup and keydown on input fields. Keyup reminds me of updating the state in ReactJS. Refactored old code.
+
+**Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
+
+### Day 26: August 20, 2023
+
+JavaScript Refresher Fundamentals
+
+1. DOM (Document Object Model) Manipulation
+2. Exercises and Refactoring Old Code
+
+**Thoughts**
+More Exercises and Refactoring old code
+
+**Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
