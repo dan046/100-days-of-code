@@ -379,3 +379,14 @@ JavaScript Refresher Fundamentals
 More Exercises and Refactoring old code
 
 **Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
+
+### Day 27: August 22, 2023
+
+JavaScript Refresher Fundamentals
+
+1. DOM (Document Object Model) Manipulation, Revisiting Exercises
+
+**Thoughts**
+Applied the Pomodoro Technique and The Proper Methods of Learning How To Learn. Was advised that in order to have a better learning structure, it is better to revisit some old exercises you've did so the neurons in the brain would not fade out or disappear. Plus, it helps build muscle memory for the brain to recognize the patterns you'd need to solve certain problems.
+
+**Link to work:** n/a
