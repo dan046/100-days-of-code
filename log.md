@@ -401,3 +401,14 @@ JavaScript Refresher Fundamentals
 Applied the Pomodoro Technique and The Proper Methods of Learning How To Learn. Was advised that in order to have a better learning structure, it is better to revisit some old exercises you've did so the neurons in the brain would not fade out or disappear. Plus, it helps build muscle memory for the brain to recognize the patterns you'd need to solve certain problems. Refactored Old Codes and Did some new DOM Exercises, Added CSS for better user experience.
 
 **Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
+
+### Day 29: August 24, 2023
+
+JavaScript Refresher Fundamentals
+
+1. More DOM (Document Object Model) Manipulation, Revisiting Exercises, New DOM Exercises, Refactoring Old Code and adding CSS Styles for better User Experience
+
+**Thoughts**
+New exercises to practice DOM manipulation, revisiting and refactoring old code. Added css for better user experience. Will soon start for arrays, loops and objects.
+
+**Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
