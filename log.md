@@ -412,3 +412,14 @@ JavaScript Refresher Fundamentals
 New exercises to practice DOM manipulation, revisiting and refactoring old code. Added css for better user experience. Will soon start for arrays, loops and objects.
 
 **Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
+
+### Day 30: August 26, 2023
+
+JavaScript Refresher Fundamentals
+
+1. More DOM (Document Object Model) Manipulation, Revisiting Exercises, New DOM Exercises, Refactoring Old Code and adding CSS Styles for better User Experience
+
+**Thoughts**
+New exercises to practice DOM manipulation, revisiting and refactoring old code. Added css for better user experience. Will soon start for arrays, loops and objects. Restructured Files.
+
+**Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
