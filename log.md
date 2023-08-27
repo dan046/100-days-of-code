@@ -423,3 +423,14 @@ JavaScript Refresher Fundamentals
 New exercises to practice DOM manipulation, revisiting and refactoring old code. Added css for better user experience. Will soon start for arrays, loops and objects. Restructured Files.
 
 **Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
+
+### Day 31: August 27, 2023
+
+JavaScript Refresher Fundamentals - Exercise Blitz
+
+1. Exercise Blitz from Basics to Current Lesson
+
+**Thoughts**
+Redoing the exercises to make sure I understand the concepts and train my brain to implement the correct algorithms based on the given problem. One thing I realized, I really am still confused at the concept of converting dollar values to cents. I still have a hard time grasping the concept over simply using .toFixed() method to get the accurate and correct values.
+
+**Link to work:** n/a
