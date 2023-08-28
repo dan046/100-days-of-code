@@ -434,3 +434,14 @@ JavaScript Refresher Fundamentals - Exercise Blitz
 Redoing the exercises to make sure I understand the concepts and train my brain to implement the correct algorithms based on the given problem. One thing I realized, I really am still confused at the concept of converting dollar values to cents. I still have a hard time grasping the concept over simply using .toFixed() method to get the accurate and correct values.
 
 **Link to work:** n/a
+
+### Day 32: August 28, 2023
+
+JavaScript Refresher Fundamentals - Exercise Blitz
+
+1. Exercise Blitz from Basics to Current Lesson
+
+**Thoughts**
+Redoing the exercises to make sure I understand the concepts and train my brain to recognize patterns in order to implement the correct algorithms in solving a problem. Currently at exercise 7 and refactoring codes.
+
+**Link to work:** n/a
