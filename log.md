@@ -445,3 +445,14 @@ JavaScript Refresher Fundamentals - Exercise Blitz
 Redoing the exercises to make sure I understand the concepts and train my brain to recognize patterns in order to implement the correct algorithms in solving a problem. Currently at exercise 7 and refactoring codes.
 
 **Link to work:** n/a
+
+### Day 33: August 29, 2023
+
+JavaScript Refresher Fundamentals - Exercise Blitz
+
+1. Exercise Blitz from Basics to Current Lesson
+
+**Thoughts**
+Still revisiting exercises before moving to more complex JavaScript such as arrays, loops and advanced functions. This is in order to train my brain to recognize programming patterns in order to properly implement the correct algorithms based on the given problem.
+
+**Link to work:** n/a
