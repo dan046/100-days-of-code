@@ -456,3 +456,16 @@ JavaScript Refresher Fundamentals - Exercise Blitz
 Still revisiting exercises before moving to more complex JavaScript such as arrays, loops and advanced functions. This is in order to train my brain to recognize programming patterns in order to properly implement the correct algorithms based on the given problem.
 
 **Link to work:** n/a
+
+### Day 34: August 30, 2023
+
+JavaScript Refresher Fundamentals - Exercise Blitz - Last Day
+
+1. Exercise Blitz from Basics to Current Lesson
+
+**Thoughts**
+Last day of exercise blitz. Managed to skim through as I am more familiar with recognizing the patterns and implementing the right algorithms based on the given set of problems.
+
+One thing that possibly caught me off guard was setting the states or toggle situations of a button. Using parameters to actually define the target buttons in order to make one button only available when toggled. Functions seems to be much easier than making each button only one separate addEventListeners. Still, I'll see if there are other advanced solutions I can implement for a cleaner and shorter code.
+
+**Link to work:** n/a
