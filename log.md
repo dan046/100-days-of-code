@@ -469,3 +469,14 @@ Last day of exercise blitz. Managed to skim through as I am more familiar with r
 One thing that possibly caught me off guard was setting the states or toggle situations of a button. Using parameters to actually define the target buttons in order to make one button only available when toggled. Functions seems to be much easier than making each button only one separate addEventListeners. Still, I'll see if there are other advanced solutions I can implement for a cleaner and shorter code.
 
 **Link to work:** n/a
+
+### Day 35: August 31, 2023
+
+JavaScript Refresher Fundamentals - Arrays and Loops Part 1
+
+1. Arrays and Loops, Recognizing Patterns, Types of Loops, Array Methods, Syntax Rules for Loops, Accumulator Patterns, Scopes in Loops, Standard and Non-standard Loops.
+
+**Thoughts**
+Finally relearning JavaScript's array and loop methods. This is part 1. This is my first time hearing about the very basics, I am already used to using the array methods and other advanced functions to actually loop through an array, however it's my first time learning about the accumulator patterns using the for loop method which I am very unfamiliar with. Things would have been easy with forof or for in loops, but I guess the basics are important to recognize the correct patterns and implement the correct algorithms based on the given problem.
+
+**Link to work:** n/a
