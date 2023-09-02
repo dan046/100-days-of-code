@@ -480,3 +480,36 @@ JavaScript Refresher Fundamentals - Arrays and Loops Part 1
 Finally relearning JavaScript's array and loop methods. This is part 1. This is my first time hearing about the very basics, I am already used to using the array methods and other advanced functions to actually loop through an array, however it's my first time learning about the accumulator patterns using the for loop method which I am very unfamiliar with. Things would have been easy with forof or for in loops, but I guess the basics are important to recognize the correct patterns and implement the correct algorithms based on the given problem.
 
 **Link to work:** n/a
+
+### Day 36: September 02, 2023
+
+JavaScript Refresher Fundamentals - Arrays and Loops Exercises
+
+1. Arrays and Loops Exercises
+
+**Thoughts**
+I'm still a bit confused on the concept of loops, especially manipulating arrays. Did some exercises, one thing that caught me off guard was,
+
+```JavaScript
+array.length - 1
+```
+
+This apparently is a JavaScript thing.
+
+> arr.length returns the length of the array — a number.
+> arr.length - 1 subtracts one from that number, turning it into an
+> index, because (since array indices are zero-based) if the array has 3
+> elements, the index of the first one is 0 and the index of the last
+> one is 2. So length (which is 3) minus 1 gives us a 2.
+> arr[arr.length - 1] therefore returns the last element of the array.
+
+This gave me more problems compared to other loop exercises which are straight forward. Apparently in JavaScript,
+
+```JavaScript
+// indexes:  0, 1, 2
+const arr = [1, 2, 3];
+arr.length; // 3
+arr[arr.length]; // undefined, there is no value at index 3
+```
+
+**Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
