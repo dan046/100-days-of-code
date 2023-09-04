@@ -513,3 +513,14 @@ arr[arr.length]; // undefined, there is no value at index 3
 ```
 
 **Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
+
+### Day 37: September 04, 2023
+
+JavaScript Refresher Fundamentals - More Arrays and Loops Exercises
+
+1. Arrays and Loops Exercises
+
+**Thoughts**
+Restructured and renamed folders for better organization. More exercises, added more solutions. I found out that there really way different ways of solving a problem, one which can be better than the other. Redid some exercises to see whether I can recognize patterns and implement the correct algorithms before moving in to the next one. The exercises are indeed getting harder and harder but it's worth learning for.
+
+**Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
