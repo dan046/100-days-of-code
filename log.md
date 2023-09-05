@@ -524,3 +524,37 @@ JavaScript Refresher Fundamentals - More Arrays and Loops Exercises
 Restructured and renamed folders for better organization. More exercises, added more solutions. I found out that there really way different ways of solving a problem, one which can be better than the other. Redid some exercises to see whether I can recognize patterns and implement the correct algorithms before moving in to the next one. The exercises are indeed getting harder and harder but it's worth learning for.
 
 **Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
+
+### Day 38: September 05, 2023
+
+JavaScript Refresher Fundamentals - More Arrays and Loops Exercises
+
+1. Arrays and Loops Exercises
+
+**Thoughts**
+Refactored old codes, revisiting old exercises, more new exercises to practice arrays and loops, implementing different methods to solve the problem. Learned something new about using the `object[variable]` as a parameter inside a function and a for loop in order to count the number of items based on each given variable and return them as an object.
+
+The takeaways
+1.  **Defining a function**: The code starts by defining a function called `countWords` that takes in an array parameter called `words`. This function will be responsible for counting the occurrences of each word in the array.
+    
+2.  **Initializing an object**: Inside the `countWords` function, an empty object called `result` is initialized. This object will store the word counts.
+    
+3.  **Iterating through an array**: The code uses a `for` loop to iterate through each element in the `words` array. This allows us to access each word individually.
+    
+4.  **Updating the word counts**: Within the loop, the code updates the `result` object by incrementing the count for the current word. If the word key doesn't exist in the `result` object, it initializes it to 0 before incrementing it by 1.
+    
+5.  **Logging the result**: After the loop finishes, the code logs the `result` object, which contains the word counts, to the console using `console.log`.
+    
+6.  **Calling the function**: Finally, the function is called with an array argument to calculate the word counts based on the provided array.
+
+Takeaways for the second exercise
+
+7.  **Finding the minimum and maximum values**: The code demonstrates two different approaches to finding the minimum and maximum values in an array of numbers. Both implementations iterate through the array and update the `min` and `max` variables based on the values encountered.
+    
+8.  **Looping through an array**: The code showcases two different loop structures for iterating through an array. The first implementation uses a traditional `for` loop with an index variable, while the second implementation utilizes a more concise `for...of` loop that simplifies accessing the values directly.
+    
+9.  **Handling empty arrays**: Both implementations include a conditional check to handle the case when the input array is empty. In such cases, the functions return an object with `min` and `max` properties set to `null`. This ensures that the functions provide consistent output even when given an empty array.
+    
+10.  **Returning results**: Both implementations return an object with `min` and `max` properties as the final output. This allows the caller to easily access the minimum and maximum values separately.
+
+**Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
