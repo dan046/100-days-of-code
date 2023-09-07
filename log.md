@@ -535,26 +535,49 @@ JavaScript Refresher Fundamentals - More Arrays and Loops Exercises
 Refactored old codes, revisiting old exercises, more new exercises to practice arrays and loops, implementing different methods to solve the problem. Learned something new about using the `object[variable]` as a parameter inside a function and a for loop in order to count the number of items based on each given variable and return them as an object.
 
 The takeaways
+
 1.  **Defining a function**: The code starts by defining a function called `countWords` that takes in an array parameter called `words`. This function will be responsible for counting the occurrences of each word in the array.
-    
 2.  **Initializing an object**: Inside the `countWords` function, an empty object called `result` is initialized. This object will store the word counts.
-    
 3.  **Iterating through an array**: The code uses a `for` loop to iterate through each element in the `words` array. This allows us to access each word individually.
-    
 4.  **Updating the word counts**: Within the loop, the code updates the `result` object by incrementing the count for the current word. If the word key doesn't exist in the `result` object, it initializes it to 0 before incrementing it by 1.
-    
 5.  **Logging the result**: After the loop finishes, the code logs the `result` object, which contains the word counts, to the console using `console.log`.
-    
 6.  **Calling the function**: Finally, the function is called with an array argument to calculate the word counts based on the provided array.
 
 Takeaways for the second exercise
 
 7.  **Finding the minimum and maximum values**: The code demonstrates two different approaches to finding the minimum and maximum values in an array of numbers. Both implementations iterate through the array and update the `min` and `max` variables based on the values encountered.
-    
 8.  **Looping through an array**: The code showcases two different loop structures for iterating through an array. The first implementation uses a traditional `for` loop with an index variable, while the second implementation utilizes a more concise `for...of` loop that simplifies accessing the values directly.
-    
 9.  **Handling empty arrays**: Both implementations include a conditional check to handle the case when the input array is empty. In such cases, the functions return an object with `min` and `max` properties set to `null`. This ensures that the functions provide consistent output even when given an empty array.
-    
-10.  **Returning results**: Both implementations return an object with `min` and `max` properties as the final output. This allows the caller to easily access the minimum and maximum values separately.
+10. **Returning results**: Both implementations return an object with `min` and `max` properties as the final output. This allows the caller to easily access the minimum and maximum values separately.
+
+**Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
+
+### Day 40: September 06, 2023
+
+JavaScript Refresher Fundamentals - More Arrays and Loops Exercises
+
+1. Arrays and Loops Exercises
+
+**Thoughts**
+Continuation of the exercises and refactoring old codes.
+
+**Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
+
+### Day 41: September 07, 2023
+
+JavaScript Refresher Fundamentals - Continued Lessons on Arrays, Loops and Functions
+
+**Thoughts**
+More exercises in arrays, loops and functions. Refactoring the todolist project and implementing more basic features such as the delete button. Emphasized that you can generate HTML inside JavaScript. This makes things dynamic in some sense. Used the input date field and grabbed the values. Tried out different methods to solve the problem.
+
+## Summary
+
+1.  Arrays = list of values
+2.  Loops (while and for...loops)
+3.  Accumulator Pattern
+4.  Created a basic todoList Project
+5.  Arrays are references and destructuring methods
+6.  More features of loops:
+    - break, continue, loops inside function and return statements.
 
 **Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
