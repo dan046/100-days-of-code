@@ -570,7 +570,7 @@ JavaScript Refresher Fundamentals - Continued Lessons on Arrays, Loops and Funct
 **Thoughts**
 More exercises in arrays, loops and functions. Refactoring the todolist project and implementing more basic features such as the delete button. Emphasized that you can generate HTML inside JavaScript. This makes things dynamic in some sense. Used the input date field and grabbed the values. Tried out different methods to solve the problem.
 
-## Summary
+Summary
 
 1.  Arrays = list of values
 2.  Loops (while and for...loops)
@@ -579,5 +579,28 @@ More exercises in arrays, loops and functions. Refactoring the todolist project 
 5.  Arrays are references and destructuring methods
 6.  More features of loops:
     - break, continue, loops inside function and return statements.
+
+**Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
+
+### Day 42: September 08, 2023
+
+JavaScript Refresher Fundamentals - Continued Lessons on Arrays, Loops and Functions and More Exercises
+
+**Thoughts**
+More exercises in arrays, loops and functions.
+
+Summary
+
+1.  Exercises for loop features
+    - break, continue, loops inside function and return statements.
+
+**Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
+
+### Day 43: September 10, 2023
+
+JavaScript Refresher Fundamentals - Continued Lessons on Arrays, Loops and Functions and More Exercises, Refactoring Old Codes and Revisiting Exercises
+
+**Thoughts**
+Refactoring Old Code, revisiting old exercises to make sure I still recognize the patterns. New exercise like the fizzBuzz algorithm using the loops instead of functions.
 
 **Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
