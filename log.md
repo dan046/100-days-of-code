@@ -604,3 +604,15 @@ JavaScript Refresher Fundamentals - Continued Lessons on Arrays, Loops and Funct
 Refactoring Old Code, revisiting old exercises to make sure I still recognize the patterns. New exercise like the fizzBuzz algorithm using the loops instead of functions.
 
 **Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
+
+### Day 44: September 11, 2023
+
+JavaScript Refresher Fundamentals - Continued Lessons on Arrays, Loops and Functions and More Exercises, Refactoring Old Codes and Revisiting Exercises
+
+**Thoughts**
+Refactoring Old Code, revisiting old exercises to make sure I still recognize the patterns. Implementing Local Storage for the todoList Project. Implementing a function that simulates the filter function to remove the duplicates within the array. Implemented READMEs for documentation purposes of how each function works.
+
+1. findUnique function. simulates the filter method and with the findIndex, simulates the indexOf.
+2. Implemented Local Storage for the todoList project. Realized that I need to set the local storage twice when adding and deleting the items. This is to ensure that the items are also updated within the local storage not just the UI of the users.
+
+**Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
