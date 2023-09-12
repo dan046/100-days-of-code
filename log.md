@@ -616,3 +616,12 @@ Refactoring Old Code, revisiting old exercises to make sure I still recognize th
 2. Implemented Local Storage for the todoList project. Realized that I need to set the local storage twice when adding and deleting the items. This is to ensure that the items are also updated within the local storage not just the UI of the users.
 
 **Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
+
+### Day 45: September 12, 2023
+
+JavaScript Refresher Fundamentals - Advanced Functions, Array Methods forEach, asynchronous and synchronous functions. setTimeout, setInterval, refactoring old code and new exercises
+
+**Thoughts**
+Finally delved into more advanced functions. New lessons and exercises, learning how to use async built-in JavaScript functions such as setTimeout and setInterval to display notifications, refactoring old codes and implementing new functions and array methods such as forEach. Learning how to replace continue with a return statement for forEach. Breaks are not available at for Each, if you want to use break, better use the for...loop instead.
+
+**Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
