@@ -625,3 +625,21 @@ JavaScript Refresher Fundamentals - Advanced Functions, Array Methods forEach, a
 Finally delved into more advanced functions. New lessons and exercises, learning how to use async built-in JavaScript functions such as setTimeout and setInterval to display notifications, refactoring old codes and implementing new functions and array methods such as forEach. Learning how to replace continue with a return statement for forEach. Breaks are not available at for Each, if you want to use break, better use the for...loop instead.
 
 **Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
+
+### Day 46: September 13, 2023
+
+JavaScript Refresher Fundamentals - Redoing Exercises on Advanced Functions, Training the Brain To Recognize Patterns In Order To Implement The Correct Algorithm To Solve A Problem
+
+**Thoughts**
+Revisiting Old Exercises and training to solve the quizzes and challenges without looking at the solutions.
+
+**Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
+
+### Day 47: September 14, 2023
+
+JavaScript Refresher Fundamentals - New Lessons on Advanced JavaScript Functions, Revisiting and Refactoring Old Codes, Differences between Regular Function, Declared Function and Arrow Functions
+
+**Thoughts**
+Revisiting and Refactoring Old Codes and Exercises while implementing new features such as addEventListeners, finding the right preference when to implement regular functions, declared functions and arrow functions in objects, variables, constants and event listeners.
+
+**Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
