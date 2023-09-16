@@ -643,3 +643,24 @@ JavaScript Refresher Fundamentals - New Lessons on Advanced JavaScript Functions
 Revisiting and Refactoring Old Codes and Exercises while implementing new features such as addEventListeners, finding the right preference when to implement regular functions, declared functions and arrow functions in objects, variables, constants and event listeners.
 
 **Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
+
+### Day 48: September 16, 2023
+
+JavaScript Refresher Fundamentals
+
+1. New Lessons on Advanced JavaScript Functions
+2. Revisiting and Refactoring Old Codes
+3. Differences between Regular Function
+4. Declared Function and Arrow Functions
+5. Closures
+6. Functions are values
+7. setTimeout(), setInterval()
+8. forEach()
+9. addEventListener()
+10. .filter()
+11. .map()
+
+**Thoughts**
+Finished the lesson and currently practicing on exercises and will try to recreate a website using vanilla JS containing and trying to implement all the methods I've learned through this refresher.
+
+**Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
