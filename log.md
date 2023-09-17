@@ -664,3 +664,15 @@ JavaScript Refresher Fundamentals
 Finished the lesson and currently practicing on exercises and will try to recreate a website using vanilla JS containing and trying to implement all the methods I've learned through this refresher.
 
 **Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
+
+### Day 49: September 17, 2023
+
+JavaScript Refresher Fundamentals
+
+1. Revisiting and Refactoring Old Codes
+2. JavaScript Exercises
+
+**Thoughts**
+Finished the lesson and currently practicing on exercises and will try to recreate a website using vanilla JS containing and trying to implement all the methods I've learned through this refresher. New and more exercises
+
+**Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
