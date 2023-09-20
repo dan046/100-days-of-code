@@ -687,3 +687,14 @@ JavaScript Refresher Fundamentals
 JavaScript Exercises, refactoring old code and implementing new features.
 
 **Link to work:** https://github.com/dan046/simple-calculator-100days-of-code
+
+### Day 51: September 20, 2023
+
+JavaScript Projects
+
+1. First JavaScript Refresher Project - Stopwatch
+
+**Thoughts**
+Created without frameworks, simple JavaScript "Stopwatch" project using HTML, Vanilla CSS and JavaScript. This is a simple stopwatch web application built using HTML, CSS, and JavaScript. You can use this stopwatch to measure time intervals, start, pause, and reset the timer as needed.
+
+**Link to work:** https://dan046.github.io/basic-stopwatch-app/
