@@ -698,3 +698,18 @@ JavaScript Projects
 Created without frameworks, simple JavaScript "Stopwatch" project using HTML, Vanilla CSS and JavaScript. This is a simple stopwatch web application built using HTML, CSS, and JavaScript. You can use this stopwatch to measure time intervals, start, pause, and reset the timer as needed.
 
 **Link to work:** https://dan046.github.io/basic-stopwatch-app/
+
+### Day 52: September 22, 2023
+
+JavaScript Projects
+
+1. Basic Todo List App with Tailwind Features and Vanilla JavaScript
+
+**Thoughts**
+This is a simple todo list web application built using HTML, CSS (with Tailwind CSS), and JavaScript. You can use this app to add, view, and delete tasks with due dates.
+
+Encountered an annoying issue with the browser's `input=[type="date"]` where the calendar icon is subjective based on the browser and device preference. Some devices convert the calendar icon into an arrow and does not display the placeholder of mm/dd/yyyy values.
+
+**Link to work:** https://github.com/dan046/todo-list-tailwind-vanilla-js
+
+Will update this code with a live link once the project is published on gh-pages.
