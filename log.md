@@ -713,3 +713,16 @@ Encountered an annoying issue with the browser's `input=[type="date"]` where the
 **Link to work:** https://github.com/dan046/todo-list-tailwind-vanilla-js
 
 Will update this code with a live link once the project is published on gh-pages.
+
+### Day 53: September 23, 2023
+
+JavaScript Projects
+
+1. Implemented more features for the Todo List Project
+
+**Thoughts**
+Implemented Validation, fixed some bugs pertaining displaying your list is empty when the local storage is empty. Implemented Local Storage, implemented sort feature by date. Still trying to fix css and github pages configuration.
+
+**Link to work:** https://github.com/dan046/todo-list-tailwind-vanilla-js
+
+Will update this code with a live link once the project is published on gh-pages.
