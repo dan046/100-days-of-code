@@ -726,3 +726,14 @@ Implemented Validation, fixed some bugs pertaining displaying your list is empty
 **Link to work:** https://github.com/dan046/todo-list-tailwind-vanilla-js
 
 Will update this code with a live link once the project is published on gh-pages.
+
+### Day 54: September 25, 2023
+
+JavaScript Projects
+
+1. Implemented more features for the Todo List Project
+
+**Thoughts**
+I am not sure if this is caused by the delay in production or build process in GitHub, but somehow the files are fixed and the CSS templates are loading properly.
+
+**Link to work:** https://dan046.github.io/todo-list-tailwind-vanilla-js/
